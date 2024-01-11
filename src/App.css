@@ -268,6 +268,7 @@ margin-top: 40px;
   margin-left: auto;
   margin-right: auto;
   display: grid;
+
   grid-template-columns: auto auto auto;
   grid-gap: 10px;
   
@@ -344,7 +345,7 @@ margin-bottom: 20px;
 }
 
 .job-container{
-  width: 100%;
+  width: 90%;
   background-color: white;
   box-shadow: #36454F;
   margin: 20px ;
@@ -363,10 +364,10 @@ margin-bottom: 20px;
   height: 100%;
   padding: 20px;
 }
-/* .job-container p{
-  width: 70%;
+ .job-container p{
+  width: 90%;
 }
-
+/*
 .job-body{
    width: 100%; 
    display: grid;
